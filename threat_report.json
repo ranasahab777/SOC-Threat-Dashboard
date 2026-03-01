@@ -1,0 +1,72 @@
+[
+    {
+        "timestamp": "2026-03-01 23:56:54",
+        "type": "Directory Traversal",
+        "severity": "Critical",
+        "description": "Detected path traversal attempt",
+        "ip": "203.0.113.42"
+    },
+    {
+        "timestamp": "2026-03-01 23:57:03",
+        "type": "Brute Force Attempt",
+        "severity": "Critical",
+        "description": "5+ failed logins from 198.51.100.99 in 30s",
+        "ip": "198.51.100.99"
+    },
+    {
+        "timestamp": "2026-03-01 23:57:04",
+        "type": "SQL Injection",
+        "severity": "Critical",
+        "description": "Detected SQLi payload",
+        "ip": "198.51.100.23"
+    },
+    {
+        "timestamp": "2026-03-01 23:57:06",
+        "type": "SQL Injection",
+        "severity": "Critical",
+        "description": "Detected SQLi payload",
+        "ip": "198.51.100.23"
+    },
+    {
+        "timestamp": "2026-03-01 23:57:08",
+        "type": "Brute Force Attempt",
+        "severity": "Critical",
+        "description": "5+ failed logins from 198.51.100.99 in 30s",
+        "ip": "198.51.100.99"
+    },
+    {
+        "timestamp": "2026-03-01 23:57:20",
+        "type": "Brute Force Attempt",
+        "severity": "Critical",
+        "description": "5+ failed logins from 198.51.100.99 in 30s",
+        "ip": "198.51.100.99"
+    },
+    {
+        "timestamp": "2026-03-01 23:57:25",
+        "type": "Brute Force Attempt",
+        "severity": "Critical",
+        "description": "5+ failed logins from 198.51.100.99 in 30s",
+        "ip": "198.51.100.99"
+    },
+    {
+        "timestamp": "2026-03-01 23:57:28",
+        "type": "SQL Injection",
+        "severity": "Critical",
+        "description": "Detected SQLi payload",
+        "ip": "198.51.100.23"
+    },
+    {
+        "timestamp": "2026-03-01 23:57:32",
+        "type": "Brute Force Attempt",
+        "severity": "Critical",
+        "description": "5+ failed logins from 198.51.100.99 in 30s",
+        "ip": "198.51.100.99"
+    },
+    {
+        "timestamp": "2026-03-01 23:57:35",
+        "type": "Brute Force Attempt",
+        "severity": "Critical",
+        "description": "5+ failed logins from 198.51.100.99 in 30s",
+        "ip": "198.51.100.99"
+    }
+]
